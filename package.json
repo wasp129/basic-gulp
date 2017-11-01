@@ -1,0 +1,25 @@
+{
+  "name": "sass-compiler",
+  "version": "1.0.0",
+  "description": "Compiling SASS using gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://a-schultz@bitbucket.org/mediacomdanmark/sass-compiler.git"
+  },
+  "author": "Andreas Schultz",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/mediacomdanmark/sass-compiler#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11",
+    "run-sequence": "^2.2.0"
+  }
+}

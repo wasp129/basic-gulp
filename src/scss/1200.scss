@@ -1,0 +1,59 @@
+@media screen and (max-width: 1200px) {
+	.col_logo {
+		width: 23%;
+	}
+
+	.col_nav {
+		width: 73%;
+	}
+
+	.col_img {
+		width: 48%;
+	}
+
+	.col_text {
+		width: 48%;
+	}
+
+	.col_p1, .col_p2, .banners {
+		width: 30%;
+	}
+
+	.banner_1, .banner_2, .banner_3 {
+		width: 100%;
+	}
+
+	.col_footer {
+		width: 100%;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	.col_logo {
+		width: 23%;
+	}
+
+	.col_nav {
+		width: 73%;
+	}
+
+	.col_img {
+		width: 48%;
+	}
+
+	.col_text {
+		width: 48%;
+	}
+
+	.col_p1, .col_p2, .banners {
+		width: 30%;
+	}
+
+	.banner_1, .banner_2, .banner_3 {
+		width: 100%;
+	}
+
+	.col_footer {
+		width: 100%;
+	}
+}
